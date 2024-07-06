@@ -10,14 +10,14 @@ Meanwhile, please send any requests for data to either tdmillar@tamu.edu or mahu
 
 # Assembly Statistics for Strains in DLPD to Date
 | Strain   | Busco | # of Contigs | N50 (Mbp)  | L50  | Total Length (Mbp) | Link                                                                                     |
-|----------|-------|--------------|------------|-----|-----|--------------------|------------------------------------------------------------------------------------------|
+|----------|-------|--------------|------------|-----|--------------------|------------------------------------------------------------------------------------------|
 | BL36283* | 98.8% | 143          | 22.91      | 4    | 198.22             | [36283](https://bdsc.indiana.edu/Home/Search?presearch=36283)                            |
 | BL36303  | 98.8% | 31           | 24.16      | 3    | 152.56             | [36303](https://bdsc.indiana.edu/Home/Search?presearch=36303)                            |
 | BL36304  | 98.7% | 34           | 23.93      | 4    | 156.39             | [36304](https://bdsc.indiana.edu/Home/Search?presearch=36304)                            |
 | BL3954*  | 91.1% | 50           | 22.26      | 4    | 157.82             | [3954](https://bdsc.indiana.edu/Home/Search?presearch=3954)                              |
 | BL4737   | 99.3% | 136          | 24.31      | 3    | 149.85             | [4737](https://bdsc.indiana.edu/Home/Search?presearch=4737)                              |
 | BL54591  | 98.8% | 42           | 23.63      | 3    | 154.79             | [54591](https://bdsc.indiana.edu/Home/Search?presearch=54591)                            |
-| BL64349  | 98.5% | 36           | 24.18      | 3   | 149.07             | [64349](https://bdsc.indiana.edu/Home/Search?presearch=64349)                            |
+| BL64349  | 98.5% | 36           | 24.18      | 3    | 149.07              | [64349](https://bdsc.indiana.edu/Home/Search?presearch=64349)                           |
 | BL8765*  | 93.1% | 78           | 24.58      | 3    | 160.46             | [8765](https://bdsc.indiana.edu/Home/Search?presearch=8765)                              |
 
 
