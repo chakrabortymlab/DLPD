@@ -9,19 +9,19 @@ We are in the final stage of setting up a genome browser for easy access to this
 Meanwhile, please send any requests for the genome assembly or the raw reads to either tdmillar@tamu.edu or mahul@tamu.edu
 
 # Assembly Statistics for Strains in DLPD to Date
-| Strain   | # of Contigs | N50 (Mbp)  | L50  | Total Length (Mbp) | Link                                                                                     |
-|----------|--------------|------------|-----|--------------------|------------------------------------------------------------------------------------------|
-| BL36283* | 143          | 22.91      | 4    | 198.22             | [36283](https://bdsc.indiana.edu/Home/Search?presearch=36283)                            |
-| BL36303  | 31           | 24.16      | 3    | 152.56             | [36303](https://bdsc.indiana.edu/Home/Search?presearch=36303)                            |
-| BL36304  | 34           | 23.93      | 4    | 156.39             | [36304](https://bdsc.indiana.edu/Home/Search?presearch=36304)                            |
-| BL3954*  | 50           | 22.26      | 4    | 157.82             | [3954](https://bdsc.indiana.edu/Home/Search?presearch=3954)                              |
-| BL4737   | 136          | 24.31      | 3    | 149.85             | [4737](https://bdsc.indiana.edu/Home/Search?presearch=4737)                              |
-| BL54591  | 42           | 23.63      | 3    | 154.79             | [54591](https://bdsc.indiana.edu/Home/Search?presearch=54591)                            |
-| BL64349  | 36           | 24.18      | 3    | 149.07              | [64349](https://bdsc.indiana.edu/Home/Search?presearch=64349)                           |
-| BL8765*  | 78           | 24.58      | 3    | 160.46             | [8765](https://bdsc.indiana.edu/Home/Search?presearch=8765)                              |
+| Strain   | N50* (Mb)  | L50*  | Significance | Link                                                                                     |
+|----------|------------|-----| --------------| ------------------------------------------------------------------------------------------|
+| BL36283** | 22.91      | 4    | Piggybac mobilization, FRT site, balancers  FM7a, and TM3 | [36283](https://bdsc.indiana.edu/Home/Search?presearch=36283)                            |
+| BL36303  | 24.16      | 3    | phiC31 integrase-mediated transformation | [36303](https://bdsc.indiana.edu/Home/Search?presearch=36303)                            |
+| BL36304  | 23.93      | 4    | phiC31 integrase-mediated transformation | [36304](https://bdsc.indiana.edu/Home/Search?presearch=36304)                            |
+| BL3954**  | 22.26      | 4    | GAL4 expression driven by Act5C promoter | [3954](https://bdsc.indiana.edu/Home/Search?presearch=3954)                              |
+| BL54591  | 23.63      | 3    | Expresses Cas9 protein under control of nanos regulatory sequences | [54591](https://bdsc.indiana.edu/Home/Search?presearch=54591)                            |
+| BL64349  | 24.18      | 3    | Canton-S wild type strain | [64349](https://bdsc.indiana.edu/Home/Search?presearch=64349)                            |
+| BL8765**  | 24.58      | 3    | GAL4 expression in the nervous system and CyO balancer | [8765](https://bdsc.indiana.edu/Home/Search?presearch=8765)                              |
+| BL4737   | 24.31      | 3    || [4737](https://bdsc.indiana.edu/Home/Search?presearch=4737)                              |
 
-
-*Hi-C contact data will be used to phase and improve de novo genome assemblies for strains with balancer chromosomes
+* N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. For comparison, the N50 and L50 values for the ISO1 reference assembly are 21.5 Mb and 3. 
+** Hi-C contact data is being used to phase and improve de novo genome assemblies for the balancer chromosomes
 
 # Citation
 We are writing a manuscript describing DLPD, and we'll post the citation here once the paper is ready. Meanwhile, you can use this resource for your work. Please let us know if you want to publish results utilizing this resource before we have a manuscript.
