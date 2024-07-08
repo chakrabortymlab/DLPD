@@ -20,8 +20,9 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 | BL8765**  | 24.58      | 3    | GAL4 expression in the nervous system and CyO balancer | [8765](https://bdsc.indiana.edu/Home/Search?presearch=8765)                              |
 | BL4737   | 24.31      | 3    || [4737](https://bdsc.indiana.edu/Home/Search?presearch=4737)                              |
 
-* N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. For comparison, the N50 and L50 values for the ISO1 reference assembly are 21.5 Mb and 3. 
-** Hi-C contact data is being used to phase and improve de novo genome assemblies for the balancer chromosomes
+*N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. For comparison, the N50 and L50 values for the ISO1 reference assembly are 21.5 Mb and 3. 
+
+**Hi-C contact data is being used to phase and improve de novo genome assemblies for the balancer chromosomes
 
 # Citation
 We are writing a manuscript describing DLPD, and we'll post the citation here once the paper is ready. Meanwhile, you can use this resource for your work. Please let us know if you want to publish results utilizing this resource before we have a manuscript.
