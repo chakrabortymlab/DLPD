@@ -14,7 +14,7 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 | ISO1     | 25.3     | 3   | The primary reference assembly for D. Melanogaster |
 | [BL5905](https://bdsc.indiana.edu/Home/Search?presearch=5905)   | 24.2     | 3   | wild type strain |
 | [BL3605](https://bdsc.indiana.edu/Home/Search?presearch=3605)  | 24.2     | 4   | wild type strain |
-| [BL5](https://bdsc.indiana.edu/Home/Search?presearch=5)      | 23.0     | 4   | Oregon-R-C wild type |
+| [BL5](https://bdsc.indiana.edu/Home/Search?presearch=5)      | 23.0     | 4   | Oregon-R-C wild type strain|
 | [BL64349](https://bdsc.indiana.edu/Home/Search?presearch=64349) | 24.18    | 3   | Canton-S wild type strain |
 | [BL36303](https://bdsc.indiana.edu/Home/Search?presearch=36303) | 24.16    | 3   | phiC31 integrase-mediated transformation |
 | [BL36304](https://bdsc.indiana.edu/Home/Search?presearch=36304) | 23.93    | 4   | phiC31 integrase-mediated transformation |
