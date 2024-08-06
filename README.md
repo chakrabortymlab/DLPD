@@ -11,14 +11,19 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 # Assembly Statistics for Strains in DLPD to Date
 | Strain   | N50* (Mb)  | L50*  | Significance |
 |----------|------------|-----| --------------|
-|  [36283](https://bdsc.indiana.edu/Home/Search?presearch=36283)** | 22.91      | 4    | Piggybac mobilization, FRT site, balancers  FM7a, and TM3 |
-| [36303](https://bdsc.indiana.edu/Home/Search?presearch=36303)  | 24.16      | 3    | phiC31 integrase-mediated transformation |
-| [36304](https://bdsc.indiana.edu/Home/Search?presearch=36304)   | 23.93      | 4    | phiC31 integrase-mediated transformation |
-| [3954](https://bdsc.indiana.edu/Home/Search?presearch=3954)**  | 22.26      | 4    | GAL4 expression driven by Act5C promoter |
-| [54591](https://bdsc.indiana.edu/Home/Search?presearch=54591)  | 23.63      | 3    | Expresses Cas9 protein under control of nanos regulatory sequences |
-| [64349](https://bdsc.indiana.edu/Home/Search?presearch=64349)  | 24.18      | 3    | Canton-S wild type strain | 
-| [8765](https://bdsc.indiana.edu/Home/Search?presearch=8765)**  | 24.58      | 3    | GAL4 expression in the nervous system and CyO balancer | 
-| [4737](https://bdsc.indiana.edu/Home/Search?presearch=4737) | 24.31      | 3    |D. simulans strain. Produces fertile female offspring when crossed with D. melanogaster | 
+| ISO1     | 25.3     | 3   | The primary reference assembly for D. Melanogaster |
+| [BL5905](https://bdsc.indiana.edu/Home/Search?presearch=5905)   | 24.2     | 3   | wild type strain |
+| [BL3605](https://bdsc.indiana.edu/Home/Search?presearch=3605)  | 24.2     | 4   | wild-type strain |
+| [BL5](https://bdsc.indiana.edu/Home/Search?presearch=5)      | 23.0     | 4   | Oregon-R-C Wildtype |
+| [BL64349](https://bdsc.indiana.edu/Home/Search?presearch=64349) | 24.18    | 3   | Canton-S wild type strain |
+| [BL36303](https://bdsc.indiana.edu/Home/Search?presearch=36303) | 24.16    | 3   | phiC31 integrase-mediated transformation |
+| [BL36304](https://bdsc.indiana.edu/Home/Search?presearch=36304) | 23.93    | 4   | phiC31 integrase-mediated transformation |
+| [BL54591](https://bdsc.indiana.edu/Home/Search?presearch=54591) | 23.63    | 3   | Expresses Cas9 protein under control of nanos regulatory sequences |
+| [BL25211](https://bdsc.indiana.edu/Home/Search?presearch=25211)  | 24.4     | 3   | Used in modENCODE functional genomics experiments |
+| [BL8765](https://bdsc.indiana.edu/Home/Search?presearch=8765) | 24.58    | 3   | GAL4 expression in the nervous system and CyO balancer |
+| [BL3954](https://bdsc.indiana.edu/Home/Search?presearch=3954) | 22.26    | 4   | GAL4 expression driven by Act5C promoter |
+| [BL36283](https://bdsc.indiana.edu/Home/Search?presearch=36283) | 22.9     | 4   | Piggybac mobilization, FRT site, balancers FM7a, and TM3 |
+| [BL4737](https://bdsc.indiana.edu/Home/Search?presearch=4737) | 24.31    | 3   | D. simulans strain. Produces fertile female offspring when crossed with D. melanogaster |
 
 *N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. For comparison, the N50 and L50 values for the ISO1 reference assembly are 21.5 Mb and 3. 
 
