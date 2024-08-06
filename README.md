@@ -11,7 +11,7 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 # Assembly Statistics for Strains in DLPD to Date
 | Strain   | N50* (Mb)  | L50*  | Significance |
 |----------|------------|-----| --------------|
-| ISO1     | 25.3     | 3   | The primary reference assembly for D. Melanogaster |
+| ISO1 (6.53)     | 25.3     | 3   | The primary reference assembly for D. Melanogaster |
 | [BL5905](https://bdsc.indiana.edu/Home/Search?presearch=5905)   | 24.2     | 3   | wild type strain |
 | [BL3605](https://bdsc.indiana.edu/Home/Search?presearch=3605)  | 24.2     | 4   | wild type strain |
 | [BL5](https://bdsc.indiana.edu/Home/Search?presearch=5)      | 23.0     | 4   | Oregon-R-C wild type strain|
@@ -25,7 +25,7 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 | [BL36283](https://bdsc.indiana.edu/Home/Search?presearch=36283)** | 22.9     | 4   | Piggybac mobilization, FRT site, balancers FM7a, and TM3 |
 | [BL4737](https://bdsc.indiana.edu/Home/Search?presearch=4737) | 24.31    | 3   | D. simulans strain. Produces fertile female offspring when crossed with D. melanogaster |
 
-*N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. For comparison, the N50 and L50 values for the ISO1 reference assembly are 21.5 Mb and 3. 
+*N50 and L50 are measures used to evaluate the quality of genome assemblies. The contig N50 is a value in megabase pairs which quantifies how well the assembly process has pieced together the genome. Specifically, 50% of the assembly is found in contigs (pieces) that are N50_value or longer. The L50 represents the number of contigs that represent the same 50% of the genome assembly. ISO1 reference assembly statistics are included for reference. 
 
 **Hi-C contact data is being used to phase and improve de novo genome assemblies for the balancer chromosomes
 
