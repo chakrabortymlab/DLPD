@@ -11,7 +11,7 @@ Meanwhile, please send any requests for the genome assembly or the raw reads to 
 # Assembly Statistics for Strains in DLPD to Date
 | Strain   | N50* (Mb)  | L50*  | Significance |
 |----------|------------|-----| --------------|
-| ISO1 (v6.53)     | 25.3     | 3   | The primary reference assembly for D. Melanogaster |
+| ISO1 (v6.53)     | 21.4     | 3   | The primary reference assembly for D. Melanogaster |
 | [BL5905](https://bdsc.indiana.edu/Home/Search?presearch=5905)   | 24.21     | 3   | W1118 wild type strain |
 | [BL3605](https://bdsc.indiana.edu/Home/Search?presearch=3605)  | 24.21     | 4   | W1118 wild type strain |
 | [BL5](https://bdsc.indiana.edu/Home/Search?presearch=5)      | 22.97     | 4   | Oregon-R-C wild type strain|
