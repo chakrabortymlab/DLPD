@@ -5,7 +5,7 @@ Since T.H. Morgan and his associates in the famous Fly Room began their foundati
 Do you work with a popular strain of _D. melanogaster_ that doesn't have a high-quality reference genome assembly? Please submit the following form to request that we sequence your strain of interest for inclusion in our database: [Google Forms DLPD Request](https://forms.gle/2m8gByd5vhed84xM9) (Strains requested by multiple labs will be prioritized)
 
 # Data Access
-You can find the genome assemblies under the following google drive link: https://drive.google.com/drive/folders/1NiBAB0Nvd9a2Wd0-d5jWRBmXSUuGFpvj
+Preprint coming soon
 
 Stay tuned as we are planning on hosting these assemblies on a genome browser for ease of use and access soon. 
 Meanwhile, please send any requests for the raw reads to either tdmillar@tamu.edu or mahul@tamu.edu
